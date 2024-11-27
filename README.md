@@ -39,3 +39,7 @@ A co zoznamy? Takto:
 2. dva
 3. tri
 
+Necislovany zoznam takto:  
+- takto
+- takto
+- takto
