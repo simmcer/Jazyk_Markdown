@@ -19,3 +19,23 @@ _repo for learning Markdown_
 
 ###### H6 podpodpodpod
 
+A vieme robit aj bloky
+
+>bloq quote 1
+
+>bloq quote 2
+
+Ked chem dva riadky podseba:
+riadok1
+riadok2
+
+Tak musim za prvy riadok dat dva krat medzernik:  
+riadok1  
+riadok2  
+
+
+A co zoznamy? Takto:  
+1. jeden
+2. dva
+3. tri
+
