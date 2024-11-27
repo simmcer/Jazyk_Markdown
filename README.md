@@ -1,6 +1,6 @@
 # Jazyk_Markdown
-repo for learning Markdown
-#Struktura readme file:
+_repo for learning Markdown_
+**#Struktura readme file:**
 1. Nazov projektu
 2. Popis projektu
 3. Instalacia
